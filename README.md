@@ -1,2 +1,2 @@
-# product_management_qb
-This repository is a Question Bank for Product Management exercises
+# Product Management Question Bank
+This repository is a Question Bank for Product Management exercises.
